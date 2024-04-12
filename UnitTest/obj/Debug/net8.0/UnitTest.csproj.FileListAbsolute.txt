@@ -1,0 +1,14 @@
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.exe
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.deps.json
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.runtimeconfig.json
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.dll
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.pdb
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfo.cs
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.dll
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\refint\UnitTest.dll
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.pdb
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.genruntimeconfig.cache
+C:\Users\RaghavendraPai\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\ref\UnitTest.dll
